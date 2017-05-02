@@ -4,7 +4,7 @@ Generative Adversarial Network have an extensive use in generating images, faces
 
 Examples:
 
-Generated:             Ground Truth:                Original:
+----Generated:----Ground Truth:----Original:----
 
 ![alt text](https://github.com/skruti10/MultiMedia_ActionPrediction_Project3/blob/master/Code/data/Human_Actions/Save/Images/Default/NewTest_3/Step_0/ogen_GIF.gif?raw=true)
 ![alt text](https://github.com/skruti10/MultiMedia_ActionPrediction_Project3/blob/master/Code/data/Human_Actions/Save/Images/Default/NewTest_3/Step_0/ogt_GIF.gif?raw=true)
