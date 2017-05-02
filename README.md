@@ -1,4 +1,14 @@
 # MultiMedia_ActionPrediction_Project3
+
+This repository is created as a deliverable for Project 3 for CS-523 course offered in Spring 2017 at University of Illinois at Chicago.
+
+This repository is created as a deliverable for Project 2 for CS-523 course offered in Spring 2017 at University of Illinois at Chicago.
+
+## Project Members:
+1. Kruti Sharma
+2. Hengbin Li
+3. Shreyas Kulkarni
+
 Generative Adversarial Network have an extensive use in generating images, faces etc. The same network has an application in predicting next frame. Here we show the next action prediction using GANs
 
 This project implements a generative adversarial network to predict future frames of video, as detailed in 
