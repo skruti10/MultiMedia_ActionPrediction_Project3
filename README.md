@@ -1,7 +1,5 @@
 # MultiMedia_ActionPrediction_Project3
 
-This repository is created as a deliverable for Project 3 for CS-523 course offered in Spring 2017 at University of Illinois at Chicago.
-
 This repository is created as a deliverable for Project 2 for CS-523 course offered in Spring 2017 at University of Illinois at Chicago.
 
 ## Project Members:
