@@ -15,7 +15,7 @@ This project implements a generative adversarial network to predict future frame
 ["Deep Multi-Scale Video Prediction Beyond Mean Square Error"](https://arxiv.org/abs/1511.05440) by Mathieu, 
 Couprie & LeCun. Their official code (using Torch) can be found at: https://github.com/coupriec/VideoPredictionICLR2016. The official code implemented by dyelax (in TensorFlow) can be found at: https://github.com/dyelax/Adversarial_Video_Generation, which shows the prediction of next frames from Ms. Pacman video game dataset.
 
-## Results and Comparison
+## Dataset
 
 This repository is trained on sequence of images of human actions like walk, slide, bend etc. The video sets of Human Actions were collected from http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html. Each of the videos were than converted into frames and saved in respective directory.
 
