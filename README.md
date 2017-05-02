@@ -114,6 +114,9 @@ Some of the sample outputs generated are kept in folder: Code/outputs. Each fold
 This demo shows how to use the jupyter notebook to have an interactive session for running this project.
 https://youtu.be/tpr44-G5MbU
 
+### Report
+The project report is: Future Action Prediction using Deep Multi-Scale Video Prediction.pdf , present in the root of the repository.
+
 ### Results from our Trained and Tested Network :
 
 ---------Original:--------------Ground Truth:----------------Generated:-----------
