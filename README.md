@@ -12,19 +12,25 @@ This repository is trained on sequence of images of human actions like walk, sli
 The training, testing and clips directory generated for Human Actions Dataset is in the following format:
 
 Data
+
   Human Actions
+  
     Train
+    
       daria_bend
+      
         daria_bend_frame0.jpg
+        
         daria_bend_frame1.jpg
+        
         ......
       daria_walk
         daria_walk_frame0.jpg
         daria_walk_frame1.jpg
         ....
-        
-        
-        .......
+       ......
+       .....
+      ....... 
       lena_skip2
         lena_skip2_frame0.jpg
         lena_skip2_frame1.jpg
